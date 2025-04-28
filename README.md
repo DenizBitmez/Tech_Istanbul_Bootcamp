@@ -1,9 +1,9 @@
-# Teknoloji_Atolyesi  
+# Tech_Istanbul_Bootcamp
 
-This repository was created for the **Git, GitHub, and Container Technologies Workshop** final project, organized by Tech Istanbul. The workshop focused on practical training in **Git**, **GitHub**, and **Docker applications**, culminating in this project.  
+This repository was created for the **Git, GitHub, and Container Technologies Bootcamp** final project, organized by Tech Istanbul. The workshop focused on practical training in **Git**, **GitHub**, and **Docker applications**, culminating in this project.  
 
 ## Project Overview  
-This project serves as a demonstration of the skills acquired during the workshop, including:  
+This project serves as a demonstration of the skills acquired during the bootcamp, including:  
 - Utilizing Git for version control.  
 - Managing repositories and collaborative workflows on GitHub.  
 - Working with Docker to containerize and deploy applications.  
